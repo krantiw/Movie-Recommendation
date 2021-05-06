@@ -3,6 +3,12 @@ Using Correlation and KNN algorithm
 
 
 1. using Correlation Matrix:
+Libraries required
+- numpy
+- pandas
+- matplotlib
+- seaborn
+
  - Steps to be followed:
 - 1. Import the necessary libraries and Loading the datasets
 - 2. EDA with visual Represenation
