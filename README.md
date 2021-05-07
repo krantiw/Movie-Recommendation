@@ -1,5 +1,4 @@
-# Movie-Recommendation
-Using Correlation and KNN algorithm
+# Movie-Recommendation Using Correlation 
 
 link to my blog on https://krantiwadmare10.medium.com/with-the-rise-in-the-ott-platforms-during-the-covid-19-lockdown-the-recommendation-systems-have-1a8759a56665
 1. using Correlation Matrix:
